@@ -1,6 +1,6 @@
 # Beginner Python Curriculum
 
-Welcome to the beginner-friendly Python curriculum designed specifically for Grade 8 students! This curriculum is structured lesson-wise to introduce fundamental programming concepts in Python. Each lesson includes topics, exercises, and additional resources to enhance learning.
+Welcome to the beginner-friendly Python curriculum! This curriculum is structured lesson-wise to introduce fundamental programming concepts in Python. Each lesson includes topics, exercises, and additional resources to enhance learning.
 
 ---
 
