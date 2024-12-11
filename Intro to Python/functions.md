@@ -1,4 +1,4 @@
-# Super Fun Introduction to Python Functions! 🐍
+# Introduction to Python Functions! 🐍
 ## A Beginner's Guide
 
 ### 1. What Are Functions? (30 minutes)
