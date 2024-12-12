@@ -171,9 +171,6 @@ for row in range(3):
 
 Remember: The best way to learn is by trying! Don't worry about making mistakes - they help us learn! 🌈
 
-# Introduction to Python For Loops - A Beginner's Guide
-
-[Previous sections remain the same up to Fun Challenges]
 
 ## Understanding Nested Loops 🎡
 
